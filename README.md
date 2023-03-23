@@ -1,4 +1,4 @@
 # slack-clone
-How to run:
-clone the repo
-Run the command flask run --reload
+How to run: <br />
+clone the repo <br />
+Run the command flask run --reload <br />
